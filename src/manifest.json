@@ -1,7 +1,7 @@
 {
   "short_name":"BIT",
   "name":"B-IN-TOUCH",
-  "start_url":"/",
+  "start_url":"/intouchpwa/",
   "theme_color":"#f48c5b",
   "background_color":"#ffffff",
   "display":"standalone",
